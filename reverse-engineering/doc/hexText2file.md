@@ -4,6 +4,7 @@ This script will convert all .hex files (that must contain hex data as ASCII) in
 
 ## How to use it
 
-Download and execute the script in the same folder as the .hex files that you want to convert.
+1. Download the script and put in the same folder as the .hex files that you want to convert.
 
-    python3 ./hexText2file.py
+2. Run the script.
+    ```$ python3 ./hexText2file.py```
